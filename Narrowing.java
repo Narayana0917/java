@@ -8,8 +8,9 @@ public class Narrowing {
 		System.out.println("d="+d);
 		System.out.println("i="+i);
 		i=(int)d;
-		system
+		System.out.println("d="+d);
+		System.out.println("i="+i);
 
 	}
-
 }
+
